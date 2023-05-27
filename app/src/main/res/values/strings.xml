@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="click_start_to_begin_the_quiz">CLICK START TO BEGIN THE QUIZ</string>
+    <string name="player_name" />
+</resources>
